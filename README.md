@@ -19,4 +19,4 @@
 * git add -A
 * git commit -m "commit message"
 * git push
-6.Go to GitHub and created a pull request from the repo in my account
+6. Go to GitHub and created a pull request from the repo in my account
