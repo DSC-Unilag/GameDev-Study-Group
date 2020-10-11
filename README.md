@@ -1,7 +1,7 @@
 # GameDev-Study-Group
 ## How To Submit Weekly Assignment
 ### Easy Mode
-* Compress your assignment in a zip or rar file
+* Compress your assignment in a zip or rar file (make sure it's less than 25 mb for this to work)
 * Name the file your name
 * Fork the repo
 * Go into the folder for the assignment week e.g. week 1
