@@ -6,5 +6,5 @@
 * Go into the folder for the assignment week e.g. week 1
 * Click on upload file
 * After uploading click on pull request
-* Name the request your name and your are done
+* Name the request your name and you are done
 * All remain is for the instructor to accept your request
